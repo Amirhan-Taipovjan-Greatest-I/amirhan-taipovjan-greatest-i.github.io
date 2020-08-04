@@ -1,2 +1,2 @@
-# amirhan_greatest.github.io
+# Amiran
 Gateway to my social media
