@@ -1,0 +1,123 @@
+body {
+background: #F2F2F2 url(images/ancient_debris.png);
+max-width: 900px;
+margin: 10px auto;
+padding: 30px;
+}
+ 
+h1{
+color: #5B5B5B;
+padding-bottom: 20px;
+margin-bottom: 20px;
+border-bottom: 2px solid #BEBEBE;
+}
+p{
+font:italic;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  width: 20%;
+  margin-right: 20px;
+}
+
+.item img {
+  display: block;
+  max-width: 100%
+}
+
+.item htwt3 {
+  margin: 0;
+  text-transform: uppercase;
+  color: #2eaaf4;
+  font-size: 1.3vw;
+}
+
+.item htg3 {
+  margin: 0;
+  text-transform: uppercase;
+  color: #1a9cd6;
+  font-size: 1.3vw;
+}
+
+.item p {
+  margin: 6px 0;
+  font-size: 1vw;
+}
+
+.item hd3 {
+  margin: 0;
+  text-transform: uppercase;
+  color: #7289da;
+  font-size: 1.3vw;
+}
+
+.item h3 {
+  margin: 0;
+  text-transform: uppercase;
+  color: #000000;
+  font-size: 1.3vw;
+}
+
+.item hy3 {
+  margin: 0;
+  text-transform: uppercase;
+  color: #ff0000;
+  font-size: 1.3vw;
+}
+
+.item htw3 {
+  margin: 0;
+  text-transform: uppercase;
+  color: #800080;
+  font-size: 1.3vw;
+}
+
+.item hcr3 {
+  margin: 0;
+  text-transform: uppercase;
+  color: #b7cc1f;
+  font-size: 1.3vw;
+}
+
+.item hsp3 {
+  margin: 0;
+  text-transform: uppercase;
+  color: #2ebd59;
+  font-size: 1.3vw;
+}
+
+.item hst3 {
+  margin: 0;
+  text-transform: uppercase;
+  color: #383e7e;
+  font-size: 1.3vw;
+}
+
+.item hrd3 {
+  margin: 0;
+  text-transform: uppercase;
+  color: #ff571e;
+  font-size: 1.3vw;
+}
+
+.item hgh3 {
+  margin: 0;
+  text-transform: uppercase;
+  color: #1a1a1a;
+  font-size: 1.3vw;
+}
+
+.item pbtn {
+  margin: 6px 0;
+  color: #0288d1;
+}
+
+.item porg {
+  margin: 6px 0;
+  color: #fc8c07;
+}
+}
